@@ -1,9 +1,9 @@
-#mutable, immutable 특성과 자료형
+# mutable, immutable 특성과 자료형
 
-##immutable
+## immutable
 * 불변 객체
 * String, Boolean, Integer, Tuple 등
 
-##mutable
+## mutable
 * 가변 객체
 * List, ArrayList, Dictionary 등
