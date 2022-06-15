@@ -1,4 +1,4 @@
-# DB Field에서 사용되는 Key 종류와 특징
+# DB Field에서 사용하는 Key 종류와 특징
 
 ## Foreign Key
 * 다른 테이블의 기본키를 참조
