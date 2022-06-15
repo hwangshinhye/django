@@ -1,14 +1,14 @@
-#DB Field에서 사용되는 Key 종류와 특징
+# DB Field에서 사용되는 Key 종류와 특징
 
-##Foreign Key
+## Foreign Key
 * 다른 테이블의 기본키를 참조
 * 외래 키 테이블에 저장될 수 있는 데이터를 제어하는 데 사용되는 열
 
-##Unique Key
+## Unique Key
 * 기본 키에 참여하고 있지 않은 특정 열에 중복 값이 입력되지 않도록 한다
 * Null값 허용 불가
 
-##Primary Key
+## Primary Key
 * 레코드를 대표해야 함
 * 테이블의 데이터를 쉽고 빠르게 찾도록 도와주는 역할
 * 테이블에 반드시 존재해야 함
